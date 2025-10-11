@@ -1,6 +1,6 @@
 # AppSec Learning Guide
 
-Key AppSec resources that I have used (or am aware of) th
+Key AppSec resources that I have used (or am aware of)
 
 ## OWASP Top 10s
 
@@ -29,6 +29,8 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 These resources are key for implenting tools and processes into your software development lifecycle (SDLC).
 
 - [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
+	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
+		- Ex. for Secret scanning, learn what it is, how software developers should manage secrets, and then pick a tool such as TruffleHog and scan some repositories.
 - [OWASP SAMM](https://owaspsamm.org/model/)
 - [OWASP DSOMM](https://dsomm.owasp.org/)
 - [Video: Strategic use of OWASP SAMM and OWASP DSOMM](https://www.youtube.com/watch?v=MIzENOyylZI)
@@ -37,3 +39,9 @@ These resources are key for implenting tools and processes into your software de
 
 - [OWASP Developer Guide](https://devguide.owasp.org/)
 - [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
+
+## Resource Collections
+
+- "awesome" repositories are list of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an "awesome" repository on the subject ex. using your favorite search engine search "awesome cloud security github", "awesome mobile security", etc
+	- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+- [Ultime DevSecOps library](https://github.com/sottlmarek/DevSecOps)
