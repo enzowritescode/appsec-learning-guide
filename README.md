@@ -11,6 +11,7 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 - [OWASP Top 10 Mobile](https://owasp.org/www-project-mobile-top-10/)
 - [OWASP Top 10 CI/CD](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 - [OWASP Top 10 LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- etc. There are [other Top 10 lists](https://owasp.org/search/?searchString=top+10), and surely more will be produced.
 
 ## Offensive Security
 
@@ -24,7 +25,7 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 	- etc. There are other intentionally vulnerable applications, some of which are no longer maintained but may still be relevant.
 - HackTheBox, TryHackMe, etc
 
-## Secure SDLC / DevSecOps Resources
+## Secure SDLC / DevSecOps
 
 These resources are key for implenting tools and processes into your software development lifecycle (SDLC).
 
@@ -39,10 +40,11 @@ These resources are key for implenting tools and processes into your software de
 
 - [OWASP Developer Guide](https://devguide.owasp.org/)
 - [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
+- [OWASP Cheat Sheet series](https://cheatsheetseries.owasp.org/)
 
 ## Resource Collections
 
-- "awesome" repositories are list of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an "awesome" repository on the subject ex. using your favorite search engine search "awesome cloud security github", "awesome mobile security", etc
+- "awesome" repositories are list of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an "awesome" repository on the subject. Example: using your favorite search engine search "awesome cloud security github", "awesome mobile security", etc
 	- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 - [Ultime DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 
@@ -53,5 +55,3 @@ Some cybersecurity related books that are not necessarily AppSec related, but ha
 - The Code Book by Simon Singh
 - The Cuckoo's Egg by Clifford Stoll
 - Becoming an Ethical Hacker by Gary Rivlin
-
-
