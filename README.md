@@ -45,3 +45,13 @@ These resources are key for implenting tools and processes into your software de
 - "awesome" repositories are list of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an "awesome" repository on the subject ex. using your favorite search engine search "awesome cloud security github", "awesome mobile security", etc
 	- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 - [Ultime DevSecOps library](https://github.com/sottlmarek/DevSecOps)
+
+## Books
+
+Some cybersecurity related books that are not necessarily AppSec related, but have stood out to me.
+
+- The Code Book by Simon Singh
+- The Cuckoo's Egg by Clifford Stoll
+- Becoming an Ethical Hacker by Gary Rivlin
+
+
