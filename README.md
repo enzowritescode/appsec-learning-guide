@@ -54,6 +54,16 @@ These resources are key for implementing automation and processes into your soft
 	- [Developers Conference Agenda](https://developers.events/#/2025/calendar)
 	- [Meetup](https://www.meetup.com/)
 
+## Podcasts
+
+- The Boring AppSec Podcast
+- Absolute AppSec
+- 404 Security Not Found
+- Application Paranoia
+- Where Warlocks Stay Up Late
+- Cloud Security Podcast
+- Darknet Diaries
+
 ## Resource Collections
 
 - [awesome](https://github.com/topics/awesome) repositories are curated lists of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an awesome repository on the subject. Example: search "awesome cloud security" or "awesome mobile security" on GitHub
