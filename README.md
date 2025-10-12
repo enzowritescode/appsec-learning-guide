@@ -44,7 +44,7 @@ These resources are key for implenting tools and processes into your software de
 
 ## Conferences and Meetups
 
-- Local OWASP Chapter meetups
+- Local [OWASP Chapter](https://owasp.org/chapters/) meetups
 - BSides conferences
 - [OWASP conferences](https://owasp.org/events/) (LASCON, OWASP Global AppSec, etc)
 - [DEF CON](https://defcon.org/)
