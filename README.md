@@ -49,6 +49,7 @@ These resources are key for implementing automation and processes into your soft
 - [OWASP conferences](https://owasp.org/events/) (LASCON, OWASP Global AppSec, etc)
 - [DEF CON](https://defcon.org/)
 - Find other conferences and meetups:
+	- [HackerTracker](https://hackertracker.app/)
 	- [InfoSecMap](https://infosecmap.com/)
 	- [Developers Conference Agenda](https://developers.events/#/2025/calendar)
 	- [Meetup](https://www.meetup.com/)
