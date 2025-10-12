@@ -16,7 +16,7 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 ## Offensive Security
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-	- PortSwigger, the creator behind the popular penetration testing tool Burp Suite, has over 250 free labs on their Web Security Academy. They often share bleeding edge research, with their researchers often speaking at conferences such as DEF CON.
+	- PortSwigger, the creator behind the popular penetration testing tool Burp Suite, has over 250 free labs on their Web Security Academy. They often share bleeding edge research and their researchers often speak at conferences such as DEF CON.
 - Open-source intentionally vulnerable projects
 	- [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA)
 	- [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
@@ -41,6 +41,17 @@ These resources are key for implenting tools and processes into your software de
 - [OWASP Developer Guide](https://devguide.owasp.org/)
 - [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
 - [OWASP Cheat Sheet series](https://cheatsheetseries.owasp.org/)
+
+## Conferences and Meetups
+
+- Local OWASP Chapter meetups
+- BSides conferences
+- [OWASP conferences](https://owasp.org/events/) (LASCON, OWASP Global AppSec, etc)
+- [DEF CON](https://defcon.org/)
+- Find other conferences and meetups:
+	- [InfoSecMap](https://infosecmap.com/)
+	- [Developers Conference Agenda](https://developers.events/#/2025/calendar)
+	- [Meetup](https://www.meetup.com/)
 
 ## Resource Collections
 
