@@ -27,7 +27,7 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 
 ## Secure SDLC / DevSecOps
 
-These resources are key for implenting tools and processes into your software development lifecycle (SDLC).
+These resources are key for implementing automation and processes into your software development lifecycle (SDLC).
 
 - [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
 	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
