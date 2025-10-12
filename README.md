@@ -56,7 +56,7 @@ These resources are key for implementing automation and processes into your soft
 
 ## Resource Collections
 
-- "awesome" repositories are list of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an "awesome" repository on the subject. Example: using your favorite search engine search "awesome cloud security github", "awesome mobile security", etc
+- [awesome](https://github.com/topics/awesome) repositories are curated lists of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an awesome repository on the subject. Example: search "awesome cloud security" or "awesome mobile security" on GitHub
 	- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 - [Ultime DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 
