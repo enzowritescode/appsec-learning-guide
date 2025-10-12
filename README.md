@@ -25,6 +25,7 @@ Learn offensive security in a safe/legal environment.
 	- [Vulnerable Adversely Programmed Interface (vAPI)](https://github.com/roottusk/vapi)
 	- [Damn Vulnerable API (DVAPI)](https://github.com/payatu/DVAPI)
 	- etc. There are other intentionally vulnerable applications, some of which are no longer maintained but may still be relevant.
+- [CloudFoxable](https://cloudfoxable.bishopfox.com/)
 - HackTheBox, TryHackMe, etc
 
 ## Secure SDLC / DevSecOps
