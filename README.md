@@ -13,7 +13,7 @@ The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to
 - [OWASP Top 10 LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - etc. There are [other Top 10 lists](https://owasp.org/search/?searchString=top+10), and surely more will be produced.
 
-## Offensive Security
+## Offensive Security Labs
 
 Learn offensive security in a safe/legal environment.
 
