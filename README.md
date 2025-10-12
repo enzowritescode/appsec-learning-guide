@@ -1,10 +1,10 @@
 # AppSec Learning Guide
 
-Key AppSec resources that I have used (or am aware of)
+A list of key resources for learning about Application Security (AppSec). Each section should not be treated as a comprehensive list, but rather a jumping off point for you to explore.
 
 ## OWASP Top 10s
 
-Offensive security is a key aspect off AppSec. The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to your role should be a fundamental pillar of your knowledge. Also if you are expanding into a new area, this is a good place to start.
+The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to your role should be a fundamental pillar of your knowledge. Also if you are expanding into a new area, this is a good place to start.
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [OWASP Top 10 API](https://owasp.org/www-project-api-security/)
@@ -14,6 +14,8 @@ Offensive security is a key aspect off AppSec. The various vulnerabilities spann
 - etc. There are [other Top 10 lists](https://owasp.org/search/?searchString=top+10), and surely more will be produced.
 
 ## Offensive Security
+
+Learn offensive security in a safe/legal environment.
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 	- PortSwigger, the creator behind the popular penetration testing tool Burp Suite, has over 250 free labs on their Web Security Academy. They often share bleeding edge research and their researchers often speak at conferences such as DEF CON.
@@ -36,7 +38,7 @@ These resources are key for implementing automation and processes into your soft
 - [OWASP DSOMM](https://dsomm.owasp.org/)
 - [Video: Strategic use of OWASP SAMM and OWASP DSOMM](https://www.youtube.com/watch?v=MIzENOyylZI)
 
-##  Developer Training
+##  Secure Coding and Developer Training
 
 - [OWASP Developer Guide](https://devguide.owasp.org/)
 - [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
@@ -44,15 +46,31 @@ These resources are key for implementing automation and processes into your soft
 
 ## Conferences and Meetups
 
+Reputable conferences and meetups. It's worth noting that conference talks are often recorded and can frequently be found on YouTube.
+
 - Local [OWASP Chapter](https://owasp.org/chapters/) meetups
 - BSides conferences
 - [OWASP conferences](https://owasp.org/events/) (LASCON, OWASP Global AppSec, etc)
 - [DEF CON](https://defcon.org/)
+- [fwd:cloudsec](https://fwdcloudsec.org/)
 - Find other conferences and meetups:
 	- [HackerTracker](https://hackertracker.app/)
 	- [InfoSecMap](https://infosecmap.com/)
 	- [Developers Conference Agenda](https://developers.events/#/2025/calendar)
 	- [Meetup](https://www.meetup.com/)
+
+## Certifications
+
+- [Practical DevSecOps](https://www.practical-devsecops.com/)
+	- DevSecOps and AppSec related certifications
+- [CloudBreach](https://cloudbreach.io/)
+	* Offensive security certifications for cloud
+- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+- [APISec University](https://www.apisecuniversity.com/certifications)
+- [TCM Security](https://certifications.tcm-sec.com/)
+	- A variety of offensive security certifications including some related to mobile and web
+- Cloud vendor-specific (ex. AWS Certified Security Speciality)
+- Other offensive security (GIAC, OffSec, etc)
 
 ## Podcasts
 
@@ -72,8 +90,8 @@ These resources are key for implementing automation and processes into your soft
 
 ## Books
 
-Some cybersecurity related books that are not necessarily AppSec related, but have stood out to me.
-
-- The Code Book by Simon Singh
-- The Cuckoo's Egg by Clifford Stoll
-- Becoming an Ethical Hacker by Gary Rivlin
+- Alice and Bob Learn Application Security
+- Misc cybersecurity books that I have enjoyed:
+	- The Code Book by Simon Singh
+	- The Cuckoo's Egg by Clifford Stoll
+	- Becoming an Ethical Hacker by Gary Rivlin
