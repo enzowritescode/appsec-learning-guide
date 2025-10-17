@@ -83,6 +83,10 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 - Cloud Security Podcast
 - Darknet Diaries
 
+## Content Creators / Influencers
+
+COMING SOON
+
 ## Resource Collections
 
 - [awesome](https://github.com/topics/awesome) repositories are curated lists of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an awesome repository on the subject. Example: search "awesome cloud security" or "awesome mobile security" on GitHub
