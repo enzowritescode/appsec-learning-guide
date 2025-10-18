@@ -92,6 +92,7 @@ COMING SOON
 There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, and so on.
 
 * [OWASP](https://owasp.org/slack/invite)
+* [Cloud Security Forum](https://fwdcloudsec.org/forum/)
 * OWASP chapters
 * BSides communities
 * etc
