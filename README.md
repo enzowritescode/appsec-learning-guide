@@ -87,6 +87,15 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 
 COMING SOON
 
+## Online Communities
+
+There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, and so on.
+
+* [OWASP](https://owasp.org/slack/invite)
+* OWASP chapters
+* BSides communities
+* etc
+
 ## Resource Collections
 
 - [awesome](https://github.com/topics/awesome) repositories are curated lists of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an awesome repository on the subject. Example: search "awesome cloud security" or "awesome mobile security" on GitHub
