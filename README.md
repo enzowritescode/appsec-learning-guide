@@ -50,7 +50,7 @@ These resources are key for implementing automation and processes into your soft
 Reputable conferences and meetups. It's worth noting that conference talks are often recorded and can frequently be found on YouTube.
 
 - Local [OWASP Chapter](https://owasp.org/chapters/) meetups
-- BSides conferences
+- [BSides conferences](https://bsides.org/events/)
 - [OWASP conferences](https://owasp.org/events/) (LASCON, OWASP Global AppSec, etc)
 - [DEF CON](https://defcon.org/)
 - [fwd:cloudsec](https://fwdcloudsec.org/)
