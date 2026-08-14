@@ -85,7 +85,11 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 
 ## Blogs
 
-COMING SOON.
+- [GitHub Security Lab](https://github.blog/tag/github-security-lab/)
+- [Uber Security](https://www.uber.com/us/en/blog/engineering/security/)
+- [OverSecured](https://oversecured.com/blog)
+- [Opensource Malware](https://opensourcemalware.com/blog)
+- [Calif](https://blog.calif.io/)
 
 ## Content Creators
 
