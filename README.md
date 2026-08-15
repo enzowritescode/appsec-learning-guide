@@ -2,6 +2,30 @@
 
 A list of key resources for learning about Application Security (AppSec). Each section should not be treated as a comprehensive list, but rather a jumping off point for you to explore.
 
+## What is an AppSec Engineer?
+
+An AppSec Engineer's focus is the security of software applications. The role can span many areas such as web, API, mobile, cloud, CI/CD, and more. For a better idea of what the required skills and responsibilities are, check out [SecurityTitles.com](https://securitytitles.com/specialized#appsec-engineer).
+
+##  Secure Coding and Developer Training
+
+Learn more about defensive programming as well as useful resources to share with your developers.
+
+- [OWASP Developer Guide](https://devguide.owasp.org/)
+	* *** This is a great place to start learning and includes several of the other resources in this guide ***
+- [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
+- [OWASP Cheat Sheet series](https://cheatsheetseries.owasp.org/)
+
+## Secure SDLC / DevSecOps
+
+These resources are key for implementing automation and processes into your software development lifecycle (SDLC).
+
+- [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
+	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
+		- Ex. for Secret scanning, learn what it is, how software developers should manage secrets, and then pick a tool such as TruffleHog and scan some repositories.
+- [OWASP SAMM](https://owaspsamm.org/model/)
+- [OWASP DSOMM](https://dsomm.owasp.org/)
+- [Video: Strategic use of OWASP SAMM and OWASP DSOMM](https://www.youtube.com/watch?v=MIzENOyylZI)
+
 ## OWASP Top 10s
 
 The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to your role should be a fundamental pillar of your knowledge. Also if you are expanding into a new area, this is a good place to start.
@@ -19,6 +43,7 @@ Learn offensive security in a safe/legal environment.
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 	- PortSwigger, the creator behind the popular penetration testing tool Burp Suite, has over 250 free labs on their Web Security Academy. They often share bleeding edge research and their researchers often speak at conferences such as DEF CON.
+	- This is probably the best place to start for learning about web and API vulnerabilities.
 - Open-source intentionally vulnerable projects
 	- [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA)
 	- [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
@@ -26,24 +51,8 @@ Learn offensive security in a safe/legal environment.
 	- [Damn Vulnerable API (DVAPI)](https://github.com/payatu/DVAPI)
 	- etc. There are other intentionally vulnerable applications, some of which are no longer maintained but may still be relevant.
 - [CloudFoxable](https://cloudfoxable.bishopfox.com/)
-- HackTheBox, TryHackMe, etc
-
-## Secure SDLC / DevSecOps
-
-These resources are key for implementing automation and processes into your software development lifecycle (SDLC).
-
-- [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
-	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
-		- Ex. for Secret scanning, learn what it is, how software developers should manage secrets, and then pick a tool such as TruffleHog and scan some repositories.
-- [OWASP SAMM](https://owaspsamm.org/model/)
-- [OWASP DSOMM](https://dsomm.owasp.org/)
-- [Video: Strategic use of OWASP SAMM and OWASP DSOMM](https://www.youtube.com/watch?v=MIzENOyylZI)
-
-##  Secure Coding and Developer Training
-
-- [OWASP Developer Guide](https://devguide.owasp.org/)
-- [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
-- [OWASP Cheat Sheet series](https://cheatsheetseries.owasp.org/)
+- [HackTheBox](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
 
 ## Conferences and Meetups
 
@@ -60,6 +69,16 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 	- [Developers Conference Agenda](https://developers.events/#/2025/calendar)
 	- [Meetup](https://www.meetup.com/)
 
+## Online Communities
+
+There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, and so on.
+
+* [OWASP](https://owasp.org/slack/invite)
+* [Cloud Security Forum](https://fwdcloudsec.org/forum/)
+* OWASP chapters
+* BSides communities
+* etc
+
 ## Certifications
 
 - [Practical DevSecOps](https://www.practical-devsecops.com/)
@@ -70,18 +89,8 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 - [APISec University](https://www.apisecuniversity.com/certifications)
 - [TCM Security](https://certifications.tcm-sec.com/)
 	- A variety of offensive security certifications including some related to mobile and web
-- Cloud vendor-specific (ex. AWS Certified Security Speciality)
+- Cloud vendor-specific (ex. [AWS Certified Security Speciality](https://aws.amazon.com/certification/certified-security-specialty/))
 - Other offensive security (GIAC, OffSec, etc)
-
-## Podcasts
-
-- The Boring AppSec Podcast
-- Absolute AppSec
-- 404 Security Not Found
-- Application Paranoia
-- Where Warlocks Stay Up Late
-- Cloud Security Podcast
-- Darknet Diaries
 
 ## Blogs
 
@@ -91,6 +100,16 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 - [Opensource Malware](https://opensourcemalware.com/blog)
 - [Calif](https://blog.calif.io/)
 
+## Podcasts
+
+- [The Boring AppSec Podcast](https://www.boringappsec.com/s/podcast)
+- [Absolute AppSec](https://absoluteappsec.com/)
+- [404 Security Not Found](https://podcast.app/404-security-not-found-p6017551)
+- [Application Paranoia](https://appscan.buzzsprout.com/)
+- [Where Warlocks Stay Up Late](https://wherewarlocksstayuplate.com/episodes/)
+- [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/)
+- [Darknet Diaries](https://darknetdiaries.com/episode/)
+
 ## Content Creators
 
 There are a variety of great content creators on platforms such as YouTube, and Linkedin. Depending on the topic you may have to search around Just try not to get caught up in the clickbait.
@@ -98,16 +117,6 @@ There are a variety of great content creators on platforms such as YouTube, and 
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Sandra Liu](https://www.youtube.com/@WithSandra)
 - [Grant Collins](https://www.youtube.com/@collinsinfosec)
-
-## Online Communities
-
-There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, and so on.
-
-* [OWASP](https://owasp.org/slack/invite)
-* [Cloud Security Forum](https://fwdcloudsec.org/forum/)
-* OWASP chapters
-* BSides communities
-* etc
 
 ## Resource Collections
 
