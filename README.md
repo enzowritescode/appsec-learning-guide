@@ -112,7 +112,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 
 ## Content Creators
 
-There are a variety of great content creators on platforms such as YouTube, and Linkedin. Depending on the topic you may have to search around Just try not to get caught up in the clickbait.
+There are a variety of great content creators on platforms such as YouTube, X (Twitter), and Linkedin. Depending on the topic you may have to search around Just try not to get caught up in the clickbait.
 
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Sandra Liu](https://www.youtube.com/@WithSandra)
