@@ -54,6 +54,19 @@ Learn offensive security in a safe/legal environment.
 - [HackTheBox](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
 
+## Certifications
+
+- [Practical DevSecOps](https://www.practical-devsecops.com/)
+	- DevSecOps and AppSec related certifications
+- [CloudBreach](https://cloudbreach.io/)
+	* Offensive security certifications for cloud
+- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+- [APISec University](https://www.apisecuniversity.com/certifications)
+- [TCM Security](https://certifications.tcm-sec.com/)
+	- A variety of offensive security certifications including some related to mobile and web
+- Cloud vendor-specific (ex. [AWS Certified Security Speciality](https://aws.amazon.com/certification/certified-security-specialty/))
+- Other offensive security (GIAC, OffSec, etc)
+
 ## Conferences and Meetups
 
 Reputable conferences and meetups. It's worth noting that conference talks are often recorded and can frequently be found on YouTube.
@@ -78,19 +91,6 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 * OWASP chapters
 * BSides communities
 * etc
-
-## Certifications
-
-- [Practical DevSecOps](https://www.practical-devsecops.com/)
-	- DevSecOps and AppSec related certifications
-- [CloudBreach](https://cloudbreach.io/)
-	* Offensive security certifications for cloud
-- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
-- [APISec University](https://www.apisecuniversity.com/certifications)
-- [TCM Security](https://certifications.tcm-sec.com/)
-	- A variety of offensive security certifications including some related to mobile and web
-- Cloud vendor-specific (ex. [AWS Certified Security Speciality](https://aws.amazon.com/certification/certified-security-specialty/))
-- Other offensive security (GIAC, OffSec, etc)
 
 ## Blogs
 
