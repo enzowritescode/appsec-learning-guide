@@ -1,6 +1,18 @@
 # AppSec Learning Guide
 
-A list of key resources for learning about Application Security (AppSec). Each section should not be treated as a comprehensive list, but rather a jumping off point for you to explore.
+A list of key ways/resources for learning about Application Security (AppSec).
+
+## How To Use This Guide
+
+This guide highlights all the different ways that one can learn about AppSec. Each section should not be treated as a comprehensive list, but rather a jumping off point for you to explore. Resources that are particularly useful are indicated with `***` and/or annotated with additional information.
+
+There is no single way to get into AppSec, and you will find that AppSec practitioners come from varying backgrounds (software development, offensive security, etc). For that reason it's up to you to use this guide in a way that suits your unique needs.
+
+An example learning path:
+- Learn more about an AppSec Engineer on SecurityTitles.com
+- Complete the apprentice level labs on PortSwigger Web Security Academy
+- Learn about how to incorporate security gates into a CI/CD pipeline with the OWASP DevSecOps Guideline
+- Learn more about how security is incorporated into the SDLC with OWASP SAMM
 
 ## What is an AppSec Engineer?
 
@@ -10,19 +22,19 @@ An AppSec Engineer's focus is the security of software applications. The role ca
 
 Learn more about defensive programming as well as useful resources to share with your developers.
 
-- [OWASP Developer Guide](https://devguide.owasp.org/)
-	* *** This is a great place to start learning and includes several of the other resources in this guide ***
-- [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/)
+- [OWASP Developer Guide](https://devguide.owasp.org/) ***
+	* This is a great place to start learning and includes several of the other resources in this guide
+- [OWASP Top 10 Proactive Controls](https://top10proactive.owasp.org/) ***
 - [OWASP Cheat Sheet series](https://cheatsheetseries.owasp.org/)
 
 ## Secure SDLC / DevSecOps
 
-These resources are key for implementing automation and processes into your software development lifecycle (SDLC).
+Key resources for implementing automation and processes into your software development lifecycle (SDLC).
 
-- [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
+- [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/) ***
 	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
 		- Ex. for Secret scanning, learn what it is, how software developers should manage secrets, and then pick a tool such as TruffleHog and scan some repositories.
-- [OWASP SAMM](https://owaspsamm.org/model/)
+- [OWASP SAMM](https://owaspsamm.org/model/) ***
 - [OWASP DSOMM](https://dsomm.owasp.org/)
 - [Video: Strategic use of OWASP SAMM and OWASP DSOMM](https://www.youtube.com/watch?v=MIzENOyylZI)
 
@@ -30,7 +42,7 @@ These resources are key for implementing automation and processes into your soft
 
 The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to your role should be a fundamental pillar of your knowledge. Also if you are expanding into a new area, this is a good place to start.
 
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) ***
 - [OWASP Top 10 API](https://owasp.org/www-project-api-security/)
 - [OWASP Top 10 Mobile](https://owasp.org/www-project-mobile-top-10/)
 - [OWASP Top 10 CI/CD](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
@@ -41,7 +53,7 @@ The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to
 
 Learn offensive security in a safe/legal environment.
 
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) ***
 	- PortSwigger, the creator behind the popular penetration testing tool Burp Suite, has over 250 free labs on their Web Security Academy. They often share bleeding edge research and their researchers often speak at conferences such as DEF CON.
 	- This is probably the best place to start for learning about web and API vulnerabilities.
 - Open-source intentionally vulnerable projects
@@ -84,7 +96,7 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 
 ## Online Communities
 
-There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, job postings, and so on.
+There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, find job postings, and so on.
 
 * [OWASP](https://owasp.org/slack/invite)
 * [Cloud Security Forum](https://fwdcloudsec.org/forum/)
