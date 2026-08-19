@@ -71,7 +71,7 @@ Reputable conferences and meetups. It's worth noting that conference talks are o
 
 ## Online Communities
 
-There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, and so on.
+There are many regional and global online communities (Slack, Discord, etc) for various frameworks, programming languages, cybersecurity focuses, etc. These can be good places to network, talk shop, learn new ideas, job postings, and so on.
 
 * [OWASP](https://owasp.org/slack/invite)
 * [Cloud Security Forum](https://fwdcloudsec.org/forum/)
@@ -112,7 +112,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 
 ## Content Creators
 
-There are a variety of great content creators on platforms such as YouTube, X (Twitter), and Linkedin. Depending on the topic you may have to search around Just try not to get caught up in the clickbait.
+There are a variety of great content creators on platforms such as YouTube, X (Twitter), and Linkedin. Depending on the topic you may have to search around. Just try not to get caught up in the clickbait.
 
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Sandra Liu](https://www.youtube.com/@WithSandra)
