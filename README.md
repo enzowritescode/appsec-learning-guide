@@ -47,6 +47,8 @@ The various vulnerabilities spanning the misc OWASP Top 10 lists that pertain to
 - [OWASP Top 10 Mobile](https://owasp.org/www-project-mobile-top-10/)
 - [OWASP Top 10 CI/CD](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 - [OWASP Top 10 LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [OWASP Top 10 Agentic Applications](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
+- [OWASP Top 10 Agentic Skills](https://owasp.org/www-project-agentic-skills-top-10/)
 - etc. There are [other Top 10 lists](https://owasp.org/search/?searchString=top+10), and surely more will be produced.
 
 ## Offensive Security Labs
