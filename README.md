@@ -11,6 +11,7 @@ There is no single way to get into AppSec, and you will find that AppSec practit
 An example learning path:
 - Learn more about an AppSec Engineer on SecurityTitles.com
 - Complete the apprentice level labs on PortSwigger Web Security Academy
+- Understand the common defensive security controls that software developers should implement via OWASP Top 10 Proactive Controls
 - Learn about how to incorporate security gates into a CI/CD pipeline with the OWASP DevSecOps Guideline
 - Learn more about how security is incorporated into the SDLC with OWASP SAMM
 
