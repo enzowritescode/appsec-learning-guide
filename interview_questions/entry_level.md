@@ -1,0 +1,37 @@
+# Interview Questions - Entry Level
+
+- Describe the following:
+	- Secrets scanning
+	- SAST
+	- DAST
+- Compare and contrast SAST and DAST
+- Compare and contrast SCA and SAST
+- Describe a specific vulnerability class
+	- What is it?
+	- How do you prevent it?
+	- Examples:
+		- XSS
+		- SQLi
+		- CSRF
+		- SSRF
+		- etc
+- Describe a time you found a software vulnerability
+- What is a cookie and what are ways you can secure them?
+- Describe at a high-level the TLS handshake
+- Compare and contrast symmetric and asymmetric cryptography
+	- How can they be used together?
+- Compare and contrast encryption and cryptographic hashing
+- How would you use an LLM to assist in your daily work?
+- Describe the life-cycle of a web browser request
+	- i.e. a user opens up the web browser, types in `google.com` and hits enter. What happens next?
+	- Describe what happens at the the different networking layers
+- What is the CIA triad?
+	- Describe one security control for each
+- What is the difference between Authentication (Authn) and Authorization (Authz)
+- What are the three types of authentication?
+- What is multi-factor or two-factor authentication?
+- How would you perform input validation on different data types:
+	- Database ID
+	- Phone number
+	- Free-form text
+	- etc
