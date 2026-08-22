@@ -29,7 +29,7 @@ Learn more about defensive programming as well as useful resources to share with
 
 ## Secure SDLC / DevSecOps
 
-Key resources for implementing automation and processes into your software development lifecycle (SDLC).
+Key resources for implementing automation and processes into your software development life-cycle (SDLC).
 
 - [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/) ***
 	- A great place to start when learning about DevSecOps. Start at the left, learn about a particular step, what its goals are, some common tools to accomplish it, and try them out yourself.
@@ -78,7 +78,7 @@ Learn offensive security in a safe/legal environment.
 - [APISec University](https://www.apisecuniversity.com/certifications)
 - [TCM Security](https://certifications.tcm-sec.com/)
 	- A variety of offensive security certifications including some related to mobile and web
-- Cloud vendor-specific (ex. [AWS Certified Security Speciality](https://aws.amazon.com/certification/certified-security-specialty/))
+- Cloud vendor-specific (ex. [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/))
 - Other offensive security (GIAC, OffSec, etc)
 
 ## Conferences and Meetups
@@ -126,7 +126,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 
 ## Content Creators
 
-There are a variety of great content creators on platforms such as YouTube, X (Twitter), and Linkedin. Depending on the topic you may have to search around. Just try not to get caught up in the clickbait.
+There are a variety of great content creators on platforms such as YouTube, X (Twitter), and LinkedIn. Depending on the topic you may have to search around. Just try not to get caught up in the clickbait.
 
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Sandra Liu](https://www.youtube.com/@WithSandra)
@@ -136,7 +136,7 @@ There are a variety of great content creators on platforms such as YouTube, X (T
 
 - [awesome](https://github.com/topics/awesome) repositories are curated lists of resources pertaining to a specific topic. When learning about a new topic sometimes it is useful to find an awesome repository on the subject. Example: search "awesome cloud security" or "awesome mobile security" on GitHub
 	- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
-- [Ultime DevSecOps library](https://github.com/sottlmarek/DevSecOps)
+- [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 
 ## Books
 
@@ -145,3 +145,9 @@ There are a variety of great content creators on platforms such as YouTube, X (T
 	- The Code Book by Simon Singh
 	- The Cuckoo's Egg by Clifford Stoll
 	- Becoming an Ethical Hacker by Gary Rivlin
+
+## Sample Interview Questions
+
+Sample interview questions can be found here (more to follow):
+
+- [Entry level](interview_questions/entry_level.md)
