@@ -23,6 +23,8 @@
 - Compare and contrast cryptographic hash algorithms vs password hash algorithms
 - Describe AAA
 - What is the difference between Authentication (Authn) and Authorization (Authz)
+- Describe the principle of least privilege
+- What is the difference between horizontal and vertical privilege escalation?
 - What are the three types of authentication?
 - What is multi-factor or two-factor authentication?
 
