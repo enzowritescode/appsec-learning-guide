@@ -121,6 +121,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 - [Absolute AppSec](https://absoluteappsec.com/)
 - [404 Security Not Found](https://podcast.app/404-security-not-found-p6017551)
 - [Application Paranoia](https://appscan.buzzsprout.com/)
+- [Coffee, Chaos, and ProdSec](https://linktr.ee/coffeechaosprodsec)
 - [Where Warlocks Stay Up Late](https://wherewarlocksstayuplate.com/episodes/)
 - [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/)
 - [Darknet Diaries](https://darknetdiaries.com/episode/)
