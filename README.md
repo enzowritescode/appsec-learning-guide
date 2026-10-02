@@ -114,6 +114,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 - [OverSecured](https://oversecured.com/blog)
 - [Opensource Malware](https://opensourcemalware.com/blog)
 - [Calif](https://blog.calif.io/)
+- [Datadog Security Labs](https://securitylabs.datadoghq.com/)
 
 ## Podcasts
 
