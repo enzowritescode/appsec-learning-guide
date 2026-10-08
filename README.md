@@ -126,6 +126,7 @@ There are many regional and global online communities (Slack, Discord, etc) for 
 - [Where Warlocks Stay Up Late](https://wherewarlocksstayuplate.com/episodes/)
 - [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/)
 - [Darknet Diaries](https://darknetdiaries.com/episode/)
+- [Down the Security Rabbithole (DtSR)](https://dtsr.buzzsprout.com/)
 
 ## Content Creators
 
